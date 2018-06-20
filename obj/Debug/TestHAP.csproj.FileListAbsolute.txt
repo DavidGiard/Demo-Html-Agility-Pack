@@ -1,0 +1,9 @@
+c:\test\TestHAP\bin\Debug\TestHAP.exe.config
+c:\test\TestHAP\obj\Debug\TestHAP.csprojResolveAssemblyReference.cache
+c:\test\TestHAP\bin\Debug\TestHAP.exe
+c:\test\TestHAP\bin\Debug\TestHAP.pdb
+c:\test\TestHAP\bin\Debug\HtmlAgilityPack.dll
+c:\test\TestHAP\bin\Debug\HtmlAgilityPack.pdb
+c:\test\TestHAP\bin\Debug\HtmlAgilityPack.xml
+c:\test\TestHAP\obj\Debug\TestHAP.exe
+c:\test\TestHAP\obj\Debug\TestHAP.pdb
